@@ -3,21 +3,6 @@ close all
 
 addpath('.\Functions');
 
-%% Generate random dataset
-% rng(37)
-% 
-% n_datapoints = 2659;
-% sf = 4; %sampling frequency in hours
-% n_sensors = 20; %in the paper this was 95, however this can take a while to run. 
-% maxshift = 96; %maximum possible shift in datapoints
-% 
-% data = randn(n_datapoints, n_sensors);
-% measurement_times = hours(0:sf:(n_datapoints*sf)-1)';
-% 
-% possibleshifts = -maxshift:1:maxshift; %in datapoints
-% references_shifts = hours(randsample(possibleshifts,n_sensors).*sf);
-
-
 %% Generate data with idinput()
 rng(37)
 
