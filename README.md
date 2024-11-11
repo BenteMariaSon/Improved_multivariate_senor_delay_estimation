@@ -3,7 +3,7 @@
 These functions were used to estimate the time delays between sensor data of an industrial process.
 Methodology is described in B. van Son, et al (to be published).
 
-The 'demonstration' file contains an example of how the functions can be used with randomly generated data. 
+The demonstration.m file contains an example of how the functions can be used with randomly generated data. 
 
 ### Code writer 
 Implementation by Bente van Son & Tim Offermens. Radboud University Nijmegen, the Netherlands
