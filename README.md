@@ -5,7 +5,7 @@ Methodology is described in B. van Son, et al (to be published).
 
 The demonstration.m file contains an example of how the functions can be used with randomly generated data. 
 
-### Code writer 
+### Code writers
 Implementation by Bente van Son & Tim Offermens. Radboud University Nijmegen, the Netherlands
 
 ### Language
